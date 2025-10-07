@@ -2,19 +2,19 @@
 
 Ole Kirk Christiansen, the visionary behind LEGO, was born on April 7, 1891, in Filskov, Denmark. His early life was characterized by hard work, resourcefulness, and a deep connection to craftsmanship – qualities that would later define his iconic toy company. This module will explore the formative years of Ole Kirk Christiansen, tracing his journey from a young carpenter to an entrepreneur laying the foundation for one of the world's most beloved toy brands. We will examine the historical context, the economic hardships he faced, and the initial seeds of creativity that blossomed into LEGO.
 
-Early Life and Apprenticeship
+## Early Life and Apprenticeship
 
 Christiansen's upbringing was rooted in the rural Danish landscape. He came from a modest background, and from a young age, he learned the value of hard work and the importance of skilled craftsmanship. He began his working life as a carpenter's apprentice, mastering the art of woodworking, a skill that would prove invaluable in his later endeavors. This apprenticeship provided him with a solid foundation in design, construction, and the properties of wood, giving him the ability to create strong and visually pleasing products.
 
-Family and Early Business Ventures
+## Family and Early Business Ventures
 
 In 1916, Ole Kirk Christiansen purchased a small woodworking shop in Billund, Denmark. He focused initially on crafting furniture and constructing houses. He married Kristine Sørensen in 1924 and had four children. The early years of his business were challenging, especially during the Great Depression of the 1930s. The economic downturn significantly impacted the demand for furniture and construction services, forcing Christiansen to adapt and find new ways to sustain his family and business.
 
-Adapting to Hard Times: The Shift to Wooden Toys
+## Adapting to Hard Times: The Shift to Wooden Toys
 
 Faced with economic hardship, Christiansen demonstrated remarkable resilience and creativity. He began producing wooden toys alongside his traditional carpentry work. This shift was driven by a need to diversify his income streams and cater to the local community's needs. The toys were initially simple, functional, and affordable, often crafted from leftover wood scraps from his furniture projects. Examples of these early toys included wooden pull-along animals, cars, and trucks. These toys were not just playthings; they were carefully crafted objects designed to bring joy and stimulate children's imaginations.
 
-The Name "LEGO" and its Significance
+## The Name "LEGO" and its Significance
 
 In 1934, Christiansen held a contest among his employees to name his company. He chose "LEGO," a combination of the Danish words "leg" and "godt," meaning "play well." This name was not only catchy and memorable but also reflected Christiansen's philosophy of creating toys that encouraged creativity, learning, and joyful play. The selection of this name marked a turning point, solidifying Christiansen's commitment to toy production and setting the stage for the company's future success.
 
