@@ -1,149 +1,813 @@
 {
   "title": "Lego an engineering study",
-  "description": "A history of Lego and the engineering process that it pioneered, exploring its evolution from simple wooden toys to a global phenomenon, highlighting the engineering principles embedded in its design and application.",
+  "links": {},
   "modules": [
     {
       "title": "The Genesis of Lego: From Wood to Plastic",
-      "description": "Explore the humble beginnings of the Lego Group, tracing its roots from Ole Kirk Christiansen's woodworking shop to the invention of the Automatic Binding Bricks.",
       "topics": [
-        { "title": "Overview", "description": "Course introduction and objectives.", "path": "README.md", "type": "instruction", "state": "stable" },
-        { "title": "Ole Kirk Christiansen: The Early Years", "description": "The life and times of the Lego founder and the initial wooden toy designs.", "path": "instruction/ole-kirk-christiansen-the-early-years/ole-kirk-christiansen-the-early-years.md", "type": "instruction", "state": "stub" },
-        { "title": "The Invention of Automatic Binding Bricks", "description": "The development and initial patenting of the Lego brick system.", "path": "instruction/the-invention-of-automatic-binding-bricks/the-invention-of-automatic-binding-bricks.md", "type": "instruction", "state": "stub" },
-        { "title": "Early Lego Sets and Marketing Strategies", "description": "An examination of the first Lego sets and how they were marketed to children and families.", "path": "instruction/early-lego-sets-and-marketing-strategies/early-lego-sets-and-marketing-strategies.md", "type": "instruction", "state": "stub" },
-        { "title": "The Transition to ABS Plastic", "description": "Why Lego switched to Acrylonitrile Butadiene Styrene (ABS) plastic and its impact on brick quality.", "path": "instruction/the-transition-to-abs-plastic/the-transition-to-abs-plastic.md", "type": "instruction", "state": "stub" },
-        { "title": "Early Engineering Concepts", "description": "Introduction to fundamental engineering concepts demonstrated by early Lego designs.", "path": "instruction/early-engineering-concepts/early-engineering-concepts.md", "type": "instruction", "state": "stub" },
-        { "title": "Patents and Intellectual Property", "description": "An overview of the patents that protected the Lego brick design.", "path": "instruction/patents-and-intellectual-property/patents-and-intellectual-property.md", "type": "instruction", "state": "stub" },
-        { "title": "The Lego Name and Brand Identity", "description": "The origin and evolution of the Lego brand name and its core values.", "path": "instruction/the-lego-name-and-brand-identity/the-lego-name-and-brand-identity.md", "type": "instruction", "state": "stub" },
-        { "title": "The Modulex Brick", "description": "A look at the smaller, scaled-down version of the Lego brick intended for architectural models.", "path": "instruction/the-modulex-brick/the-modulex-brick.md", "type": "instruction", "state": "stub" },
-        { "title": "Influence of Post-War Design", "description": "Examining how the Lego brick was influenced by post-war design and manufacturing principles.", "path": "instruction/influence-of-post-war-design/influence-of-post-war-design.md", "type": "instruction", "state": "stub" },
-        { "title": "The Toy Industry in the 1950s", "description": "A historical context of the toy industry during the time Lego was emerging.", "path": "instruction/the-toy-industry-in-the-1950s/the-toy-industry-in-the-1950s.md", "type": "instruction", "state": "stub" },
-        { "title": "The System of Play", "description": "Introduction to the Lego System of Play concept.", "path": "instruction/the-system-of-play/the-system-of-play.md", "type": "instruction", "state": "stub" }
+        {
+          "title": "Overview",
+          "type": "instruction",
+          "path": "README.md",
+          "id": "9fc93ebdb38e4e13bfb9c122ea52cfa4",
+          "state": "stable",
+          "description": "Course introduction and objectives."
+        },
+        {
+          "title": "Ole Kirk Christiansen: The Early Years",
+          "type": "instruction",
+          "path": "instruction/ole-kirk-christiansen-the-early-years/ole-kirk-christiansen-the-early-years.md",
+          "id": "fb06054a2ded45c2bda8918d8d368162",
+          "state": "stable",
+          "description": "The life and times of the Lego founder and the initial wooden toy designs."
+        },
+        {
+          "title": "The Invention of Automatic Binding Bricks",
+          "type": "instruction",
+          "path": "instruction/the-invention-of-automatic-binding-bricks/the-invention-of-automatic-binding-bricks.md",
+          "id": "331f7c06aa5a461e81a71bbf58d9dc75",
+          "state": "stub",
+          "description": "The development and initial patenting of the Lego brick system."
+        },
+        {
+          "title": "Early Lego Sets and Marketing Strategies",
+          "type": "instruction",
+          "path": "instruction/early-lego-sets-and-marketing-strategies/early-lego-sets-and-marketing-strategies.md",
+          "id": "3cf26cd1a01c41b5adfde6f960688313",
+          "state": "stub",
+          "description": "An examination of the first Lego sets and how they were marketed to children and families."
+        },
+        {
+          "title": "The Transition to ABS Plastic",
+          "type": "instruction",
+          "path": "instruction/the-transition-to-abs-plastic/the-transition-to-abs-plastic.md",
+          "id": "c657a81cf5f441adbf7e0de14f07fc2a",
+          "state": "stub",
+          "description": "Why Lego switched to Acrylonitrile Butadiene Styrene (ABS) plastic and its impact on brick quality."
+        },
+        {
+          "title": "Early Engineering Concepts",
+          "type": "instruction",
+          "path": "instruction/early-engineering-concepts/early-engineering-concepts.md",
+          "id": "59883d5370944464b3380b2c2ce0a8a5",
+          "state": "stub",
+          "description": "Introduction to fundamental engineering concepts demonstrated by early Lego designs."
+        },
+        {
+          "title": "Patents and Intellectual Property",
+          "type": "instruction",
+          "path": "instruction/patents-and-intellectual-property/patents-and-intellectual-property.md",
+          "id": "677912121a444aaa9ad16ac320c64019",
+          "state": "stub",
+          "description": "An overview of the patents that protected the Lego brick design."
+        },
+        {
+          "title": "The Lego Name and Brand Identity",
+          "type": "instruction",
+          "path": "instruction/the-lego-name-and-brand-identity/the-lego-name-and-brand-identity.md",
+          "id": "04d0a49302994b8d856754c8fbfc5e02",
+          "state": "stub",
+          "description": "The origin and evolution of the Lego brand name and its core values."
+        },
+        {
+          "title": "The Modulex Brick",
+          "type": "instruction",
+          "path": "instruction/the-modulex-brick/the-modulex-brick.md",
+          "id": "4647e92baeea4c0e8b7bb0e27500fd0d",
+          "state": "stub",
+          "description": "A look at the smaller, scaled-down version of the Lego brick intended for architectural models."
+        },
+        {
+          "title": "Influence of Post-War Design",
+          "type": "instruction",
+          "path": "instruction/influence-of-post-war-design/influence-of-post-war-design.md",
+          "id": "e546f66f90a64e7ca1be88e9f1e1ec54",
+          "state": "stub",
+          "description": "Examining how the Lego brick was influenced by post-war design and manufacturing principles."
+        },
+        {
+          "title": "The Toy Industry in the 1950s",
+          "type": "instruction",
+          "path": "instruction/the-toy-industry-in-the-1950s/the-toy-industry-in-the-1950s.md",
+          "id": "56965876616c4b94b0146d56d5d2a02d",
+          "state": "stub",
+          "description": "A historical context of the toy industry during the time Lego was emerging."
+        },
+        {
+          "title": "The System of Play",
+          "type": "instruction",
+          "path": "instruction/the-system-of-play/the-system-of-play.md",
+          "id": "2c7e8988867443e6b07b7fc19d574022",
+          "state": "stub",
+          "description": "Introduction to the Lego System of Play concept."
+        }
       ]
     },
     {
       "title": "The Lego System of Play: Standardization and Interconnectivity",
-      "description": "Delve into the concept of the Lego System of Play, focusing on the standardization and interconnectivity that underpin the Lego brick's versatility.",
       "topics": [
-        { "title": "The 2x4 Brick: The Cornerstone", "description": "Why the 2x4 brick became the standard and its significance in the Lego system.", "path": "instruction/the-2x4-brick-the-cornerstone/the-2x4-brick-the-cornerstone.md", "type": "instruction", "state": "stub" },
-        { "title": "Tolerance and Precision in Manufacturing", "description": "The incredibly tight tolerances required for Lego brick interconnectivity and manufacturing processes.", "path": "instruction/tolerance-and-precision-in-manufacturing/tolerance-and-precision-in-manufacturing.md", "type": "instruction", "state": "stub" },
-        { "title": "Studs and Tubes: The Clutch Power Mechanism", "description": "The engineering behind the stud-and-tube coupling system and its role in brick stability.", "path": "instruction/studs-and-tubes-the-clutch-power-mechanism/studs-and-tubes-the-clutch-power-mechanism.md", "type": "instruction", "state": "stub" },
-        { "title": "Material Science: ABS Plastic Properties", "description": "Detailed analysis of the physical and chemical properties of ABS plastic and its suitability for Lego bricks.", "path": "instruction/material-science-abs-plastic-properties/material-science-abs-plastic-properties.md", "type": "instruction", "state": "stub" },
-        { "title": "The Evolution of Brick Design", "description": "How the Lego brick design has evolved over time while maintaining interconnectivity.", "path": "instruction/the-evolution-of-brick-design/the-evolution-of-brick-design.md", "type": "instruction", "state": "stub" },
-        { "title": "Modular Design Principles", "description": "Application of modular design principles in the Lego System of Play.", "path": "instruction/modular-design-principles/modular-design-principles.md", "type": "instruction", "state": "stub" },
-        { "title": "Standardization and Interchangeability", "description": "Why standardization and interchangeability are critical to the Lego experience.", "path": "instruction/standardization-and-interchangeability/standardization-and-interchangeability.md", "type": "instruction", "state": "stub" },
-        { "title": "The Role of Color in Lego Design", "description": "The psychology and engineering aspects of color choices in Lego bricks.", "path": "instruction/the-role-of-color-in-lego-design/the-role-of-color-in-lego-design.md", "type": "instruction", "state": "stub" },
-        { "title": "Ergonomics of Lego Bricks", "description": "How Lego bricks are designed for easy handling by children and adults.", "path": "instruction/ergonomics-of-lego-bricks/ergonomics-of-lego-bricks.md", "type": "instruction", "state": "stub" },
-        { "title": "The Lego Foundation and Education", "description": "The mission and impact of the Lego Foundation in promoting learning through play.", "path": "instruction/the-lego-foundation-and-education/the-lego-foundation-and-education.md", "type": "instruction", "state": "stub" },
-        { "title": "Lego Patents Expire", "description": "The impact of the expiration of Lego's patents on the toy industry.", "path": "instruction/lego-patents-expire/lego-patents-expire.md", "type": "instruction", "state": "stub" },
-        { "title": "The Minifigure Revolution", "description": "The introduction and impact of the Lego Minifigure.", "path": "instruction/the-minifigure-revolution/the-minifigure-revolution.md", "type": "instruction", "state": "stub" }
+        {
+          "title": "The 2x4 Brick: The Cornerstone",
+          "type": "instruction",
+          "path": "instruction/the-2x4-brick-the-cornerstone/the-2x4-brick-the-cornerstone.md",
+          "id": "4a046e0d461d4fb38bf4608acbd56dc4",
+          "state": "stub",
+          "description": "Why the 2x4 brick became the standard and its significance in the Lego system."
+        },
+        {
+          "title": "Tolerance and Precision in Manufacturing",
+          "type": "instruction",
+          "path": "instruction/tolerance-and-precision-in-manufacturing/tolerance-and-precision-in-manufacturing.md",
+          "id": "142e67013d894fc58f3a2f7773a01e1f",
+          "state": "stub",
+          "description": "The incredibly tight tolerances required for Lego brick interconnectivity and manufacturing processes."
+        },
+        {
+          "title": "Studs and Tubes: The Clutch Power Mechanism",
+          "type": "instruction",
+          "path": "instruction/studs-and-tubes-the-clutch-power-mechanism/studs-and-tubes-the-clutch-power-mechanism.md",
+          "id": "c3f545c4d4d445668f4da8afb4f26aaa",
+          "state": "stub",
+          "description": "The engineering behind the stud-and-tube coupling system and its role in brick stability."
+        },
+        {
+          "title": "Material Science: ABS Plastic Properties",
+          "type": "instruction",
+          "path": "instruction/material-science-abs-plastic-properties/material-science-abs-plastic-properties.md",
+          "id": "7c427558e8b848b2a742f9a3a73d34ea",
+          "state": "stub",
+          "description": "Detailed analysis of the physical and chemical properties of ABS plastic and its suitability for Lego bricks."
+        },
+        {
+          "title": "The Evolution of Brick Design",
+          "type": "instruction",
+          "path": "instruction/the-evolution-of-brick-design/the-evolution-of-brick-design.md",
+          "id": "3ffc83066b864bcfbbbdbcbbfd6be404",
+          "state": "stub",
+          "description": "How the Lego brick design has evolved over time while maintaining interconnectivity."
+        },
+        {
+          "title": "Modular Design Principles",
+          "type": "instruction",
+          "path": "instruction/modular-design-principles/modular-design-principles.md",
+          "id": "93142571727b424db23b50aa9b755622",
+          "state": "stub",
+          "description": "Application of modular design principles in the Lego System of Play."
+        },
+        {
+          "title": "Standardization and Interchangeability",
+          "type": "instruction",
+          "path": "instruction/standardization-and-interchangeability/standardization-and-interchangeability.md",
+          "id": "dfd6403374d04d17a873ef2d31ad4298",
+          "state": "stub",
+          "description": "Why standardization and interchangeability are critical to the Lego experience."
+        },
+        {
+          "title": "The Role of Color in Lego Design",
+          "type": "instruction",
+          "path": "instruction/the-role-of-color-in-lego-design/the-role-of-color-in-lego-design.md",
+          "id": "f6af0df38dc7455a84cc2035367b9311",
+          "state": "stub",
+          "description": "The psychology and engineering aspects of color choices in Lego bricks."
+        },
+        {
+          "title": "Ergonomics of Lego Bricks",
+          "type": "instruction",
+          "path": "instruction/ergonomics-of-lego-bricks/ergonomics-of-lego-bricks.md",
+          "id": "332d4bcdf6974f8d96afa4eeddb57381",
+          "state": "stub",
+          "description": "How Lego bricks are designed for easy handling by children and adults."
+        },
+        {
+          "title": "The Lego Foundation and Education",
+          "type": "instruction",
+          "path": "instruction/the-lego-foundation-and-education/the-lego-foundation-and-education.md",
+          "id": "8429a2afe04c46369cedeae0884d2bf1",
+          "state": "stub",
+          "description": "The mission and impact of the Lego Foundation in promoting learning through play."
+        },
+        {
+          "title": "Lego Patents Expire",
+          "type": "instruction",
+          "path": "instruction/lego-patents-expire/lego-patents-expire.md",
+          "id": "e713e964e2214c56aa7c64af8fe9d20e",
+          "state": "stub",
+          "description": "The impact of the expiration of Lego's patents on the toy industry."
+        },
+        {
+          "title": "The Minifigure Revolution",
+          "type": "instruction",
+          "path": "instruction/the-minifigure-revolution/the-minifigure-revolution.md",
+          "id": "a855fad070004dab9513c1becb87606a",
+          "state": "stub",
+          "description": "The introduction and impact of the Lego Minifigure."
+        }
       ]
     },
     {
       "title": "Lego Technic: Mechanical Engineering in Miniature",
-      "description": "Examine the Lego Technic line, exploring its mechanical engineering principles and complex gear systems.",
       "topics": [
-        { "title": "The Introduction of Lego Technic", "description": "The origins and evolution of the Lego Technic line.", "path": "instruction/the-introduction-of-lego-technic/the-introduction-of-lego-technic.md", "type": "instruction", "state": "stub" },
-        { "title": "Gears: Types and Applications", "description": "A comprehensive overview of different types of gears used in Lego Technic models and their specific applications.", "path": "instruction/gears-types-and-applications/gears-types-and-applications.md", "type": "instruction", "state": "stub" },
-        { "title": "Levers and Linkages: Basic Mechanisms", "description": "Understanding levers and linkages and their role in creating complex movements in Lego Technic models.", "path": "instruction/levers-and-linkages-basic-mechanisms/levers-and-linkages-basic-mechanisms.md", "type": "instruction", "state": "stub" },
-        { "title": "Pneumatics: Compressed Air Systems", "description": "Exploring the use of pneumatics in Lego Technic models to create realistic and powerful movements.", "path": "instruction/pneumatics-compressed-air-systems/pneumatics-compressed-air-systems.md", "type": "instruction", "state": "stub" },
-        { "title": "Electric Motors: Powering Lego Creations", "description": "The integration of electric motors in Lego Technic models and their impact on functionality.", "path": "instruction/electric-motors-powering-lego-creations/electric-motors-powering-lego-creations.md", "type": "instruction", "state": "stub" },
-        { "title": "Structural Integrity and Load Bearing", "description": "Principles of structural integrity and load bearing in Lego Technic designs.", "path": "instruction/structural-integrity-and-load-bearing/structural-integrity-and-load-bearing.md", "type": "instruction", "state": "stub" },
-        { "title": "Gear Ratios and Torque", "description": "Calculating gear ratios and understanding the relationship between torque and speed.", "path": "instruction/gear-ratios-and-torque/gear-ratios-and-torque.md", "type": "instruction", "state": "stub" },
-        { "title": "Computer-Aided Design (CAD) for Lego", "description": "Using CAD software to design and simulate Lego Technic models.", "path": "instruction/computer-aided-design-cad-for-lego/computer-aided-design-cad-for-lego.md", "type": "instruction", "state": "stub" },
-        { "title": "Building Instructions and Design Documentation", "description": "Analyzing Lego Technic building instructions and understanding design documentation.", "path": "instruction/building-instructions-and-design-documentation/building-instructions-and-design-documentation.md", "type": "instruction", "state": "stub" },
-        { "title": "Real-World Applications of Lego Technic Principles", "description": "Examples of real-world engineering applications that mirror Lego Technic principles.", "path": "instruction/real-world-applications-of-lego-technic-principles/real-world-applications-of-lego-technic-principles.md", "type": "instruction", "state": "stub" },
-        { "title": "The History of Mindstorms", "description": "An overview of the Lego Mindstorms system.", "path": "instruction/the-history-of-mindstorms/the-history-of-mindstorms.md", "type": "instruction", "state": "stub" },
-        { "title": "Lego and Robotics Competitions", "description": "The role of Lego in robotics competitions such as FIRST LEGO League.", "path": "instruction/lego-and-robotics-competitions/lego-and-robotics-competitions.md", "type": "instruction", "state": "stub" }
+        {
+          "title": "The Introduction of Lego Technic",
+          "type": "instruction",
+          "path": "instruction/the-introduction-of-lego-technic/the-introduction-of-lego-technic.md",
+          "id": "52d6260db7a04aaabdfc62e25d3e91fd",
+          "state": "stub",
+          "description": "The origins and evolution of the Lego Technic line."
+        },
+        {
+          "title": "Gears: Types and Applications",
+          "type": "instruction",
+          "path": "instruction/gears-types-and-applications/gears-types-and-applications.md",
+          "id": "ecc53d000b924a2eb6231ccc7b124b87",
+          "state": "stub",
+          "description": "A comprehensive overview of different types of gears used in Lego Technic models and their specific applications."
+        },
+        {
+          "title": "Levers and Linkages: Basic Mechanisms",
+          "type": "instruction",
+          "path": "instruction/levers-and-linkages-basic-mechanisms/levers-and-linkages-basic-mechanisms.md",
+          "id": "5d6404267b614cc38ae1a1bd89067365",
+          "state": "stub",
+          "description": "Understanding levers and linkages and their role in creating complex movements in Lego Technic models."
+        },
+        {
+          "title": "Pneumatics: Compressed Air Systems",
+          "type": "instruction",
+          "path": "instruction/pneumatics-compressed-air-systems/pneumatics-compressed-air-systems.md",
+          "id": "3b23148ffbc34e8988a7730963cc997d",
+          "state": "stub",
+          "description": "Exploring the use of pneumatics in Lego Technic models to create realistic and powerful movements."
+        },
+        {
+          "title": "Electric Motors: Powering Lego Creations",
+          "type": "instruction",
+          "path": "instruction/electric-motors-powering-lego-creations/electric-motors-powering-lego-creations.md",
+          "id": "a84027cf38ec49f79ce5552867f662f4",
+          "state": "stub",
+          "description": "The integration of electric motors in Lego Technic models and their impact on functionality."
+        },
+        {
+          "title": "Structural Integrity and Load Bearing",
+          "type": "instruction",
+          "path": "instruction/structural-integrity-and-load-bearing/structural-integrity-and-load-bearing.md",
+          "id": "87a7f9fffab847cab6cf195896d98d70",
+          "state": "stub",
+          "description": "Principles of structural integrity and load bearing in Lego Technic designs."
+        },
+        {
+          "title": "Gear Ratios and Torque",
+          "type": "instruction",
+          "path": "instruction/gear-ratios-and-torque/gear-ratios-and-torque.md",
+          "id": "463f2ae5004442d78155c7e8b9bc8d49",
+          "state": "stub",
+          "description": "Calculating gear ratios and understanding the relationship between torque and speed."
+        },
+        {
+          "title": "Computer-Aided Design (CAD) for Lego",
+          "type": "instruction",
+          "path": "instruction/computer-aided-design-cad-for-lego/computer-aided-design-cad-for-lego.md",
+          "id": "ca02d5f79ec841699a6f47b6930db701",
+          "state": "stub",
+          "description": "Using CAD software to design and simulate Lego Technic models."
+        },
+        {
+          "title": "Building Instructions and Design Documentation",
+          "type": "instruction",
+          "path": "instruction/building-instructions-and-design-documentation/building-instructions-and-design-documentation.md",
+          "id": "bdbd85612f214946bfc5f3a70f493092",
+          "state": "stub",
+          "description": "Analyzing Lego Technic building instructions and understanding design documentation."
+        },
+        {
+          "title": "Real-World Applications of Lego Technic Principles",
+          "type": "instruction",
+          "path": "instruction/real-world-applications-of-lego-technic-principles/real-world-applications-of-lego-technic-principles.md",
+          "id": "ae384df6101640ae82f12d08733a1d33",
+          "state": "stub",
+          "description": "Examples of real-world engineering applications that mirror Lego Technic principles."
+        },
+        {
+          "title": "The History of Mindstorms",
+          "type": "instruction",
+          "path": "instruction/the-history-of-mindstorms/the-history-of-mindstorms.md",
+          "id": "890946811a8343ab872d7433481306a9",
+          "state": "stub",
+          "description": "An overview of the Lego Mindstorms system."
+        },
+        {
+          "title": "Lego and Robotics Competitions",
+          "type": "instruction",
+          "path": "instruction/lego-and-robotics-competitions/lego-and-robotics-competitions.md",
+          "id": "75c312545cf4462890180d7fe3e5570e",
+          "state": "stub",
+          "description": "The role of Lego in robotics competitions such as FIRST LEGO League."
+        }
       ]
     },
     {
       "title": "Lego Mindstorms: Robotics and Programming",
-      "description": "Explore the world of Lego Mindstorms, focusing on robotics, programming, and sensor integration.",
       "topics": [
-        { "title": "Introduction to Lego Mindstorms EV3", "description": "An overview of the Lego Mindstorms EV3 platform and its capabilities.", "path": "instruction/introduction-to-lego-mindstorms-ev3/introduction-to-lego-mindstorms-ev3.md", "type": "instruction", "state": "stub" },
-        { "title": "Programming with EV3-G", "description": "Learning the basics of programming with the EV3-G visual programming language.", "path": "instruction/programming-with-ev3-g/programming-with-ev3-g.md", "type": "instruction", "state": "stub" },
-        { "title": "Sensors: Touch, Color, Ultrasonic, Gyro", "description": "Understanding the different types of sensors available for Lego Mindstorms and how to use them.", "path": "instruction/sensors-touch-color-ultrasonic-gyro/sensors-touch-color-ultrasonic-gyro.md", "type": "instruction", "state": "stub" },
-        { "title": "Motors: Controlling Movement and Speed", "description": "Controlling motors in Lego Mindstorms to achieve precise movements and speeds.", "path": "instruction/motors-controlling-movement-and-speed/motors-controlling-movement-and-speed.md", "type": "instruction", "state": "stub" },
-        { "title": "Data Logging and Analysis", "description": "Collecting and analyzing data from sensors to improve robot performance.", "path": "instruction/data-logging-and-analysis/data-logging-and-analysis.md", "type": "instruction", "state": "stub" },
-        { "title": "Advanced Programming Techniques", "description": "Exploring advanced programming techniques such as loops, conditional statements, and functions.", "path": "instruction/advanced-programming-techniques/advanced-programming-techniques.md", "type": "instruction", "state": "stub" },
-        { "title": "PID Control: Precision Movement", "description": "Introduction to PID control for achieving precise and stable movements.", "path": "instruction/pid-control-precision-movement/pid-control-precision-movement.md", "type": "instruction", "state": "stub" },
-        { "title": "Remote Control and Teleoperation", "description": "Controlling Lego Mindstorms robots remotely using Bluetooth or Wi-Fi.", "path": "instruction/remote-control-and-teleoperation/remote-control-and-teleoperation.md", "type": "instruction", "state": "stub" },
-        { "title": "Path Planning and Navigation", "description": "Developing algorithms for path planning and navigation in Lego Mindstorms robots.", "path": "instruction/path-planning-and-navigation/path-planning-and-navigation.md", "type": "instruction", "state": "stub" },
-        { "title": "Computer Vision with Lego Mindstorms", "description": "Introduction to computer vision techniques using Lego Mindstorms and external cameras.", "path": "instruction/computer-vision-with-lego-mindstorms/computer-vision-with-lego-mindstorms.md", "type": "instruction", "state": "stub" },
-        { "title": "Lego Spike Prime Overview", "description": "An overview of the Lego Spike Prime system.", "path": "instruction/lego-spike-prime-overview/lego-spike-prime-overview.md", "type": "instruction", "state": "stub" },
-        { "title": "Python Programming with Spike Prime", "description": "Introduction to Python programming with Lego Spike Prime.", "path": "instruction/python-programming-with-spike-prime/python-programming-with-spike-prime.md", "type": "instruction", "state": "stub" }
+        {
+          "title": "Introduction to Lego Mindstorms EV3",
+          "type": "instruction",
+          "path": "instruction/introduction-to-lego-mindstorms-ev3/introduction-to-lego-mindstorms-ev3.md",
+          "id": "14ef36d06e8a49dd884ffc9bff1ccc77",
+          "state": "stub",
+          "description": "An overview of the Lego Mindstorms EV3 platform and its capabilities."
+        },
+        {
+          "title": "Programming with EV3-G",
+          "type": "instruction",
+          "path": "instruction/programming-with-ev3-g/programming-with-ev3-g.md",
+          "id": "f9e35fbea7a2493bbea7d6fb19e2133b",
+          "state": "stub",
+          "description": "Learning the basics of programming with the EV3-G visual programming language."
+        },
+        {
+          "title": "Sensors: Touch, Color, Ultrasonic, Gyro",
+          "type": "instruction",
+          "path": "instruction/sensors-touch-color-ultrasonic-gyro/sensors-touch-color-ultrasonic-gyro.md",
+          "id": "b5686bea221c40b489a96573a0ebf9ed",
+          "state": "stub",
+          "description": "Understanding the different types of sensors available for Lego Mindstorms and how to use them."
+        },
+        {
+          "title": "Motors: Controlling Movement and Speed",
+          "type": "instruction",
+          "path": "instruction/motors-controlling-movement-and-speed/motors-controlling-movement-and-speed.md",
+          "id": "3f83299535b44eb59bfd40da3747a406",
+          "state": "stub",
+          "description": "Controlling motors in Lego Mindstorms to achieve precise movements and speeds."
+        },
+        {
+          "title": "Data Logging and Analysis",
+          "type": "instruction",
+          "path": "instruction/data-logging-and-analysis/data-logging-and-analysis.md",
+          "id": "4765c00566f14823996bbaae2e4ed18c",
+          "state": "stub",
+          "description": "Collecting and analyzing data from sensors to improve robot performance."
+        },
+        {
+          "title": "Advanced Programming Techniques",
+          "type": "instruction",
+          "path": "instruction/advanced-programming-techniques/advanced-programming-techniques.md",
+          "id": "2bcd423eebae4397a1397e7030c76d6c",
+          "state": "stub",
+          "description": "Exploring advanced programming techniques such as loops, conditional statements, and functions."
+        },
+        {
+          "title": "PID Control: Precision Movement",
+          "type": "instruction",
+          "path": "instruction/pid-control-precision-movement/pid-control-precision-movement.md",
+          "id": "c67804b6e9db4a5987661dd7c35d8930",
+          "state": "stub",
+          "description": "Introduction to PID control for achieving precise and stable movements."
+        },
+        {
+          "title": "Remote Control and Teleoperation",
+          "type": "instruction",
+          "path": "instruction/remote-control-and-teleoperation/remote-control-and-teleoperation.md",
+          "id": "e9e1e25254ee4840a453295ae934028e",
+          "state": "stub",
+          "description": "Controlling Lego Mindstorms robots remotely using Bluetooth or Wi-Fi."
+        },
+        {
+          "title": "Path Planning and Navigation",
+          "type": "instruction",
+          "path": "instruction/path-planning-and-navigation/path-planning-and-navigation.md",
+          "id": "555019c8a43140af873904db5a9ab022",
+          "state": "stub",
+          "description": "Developing algorithms for path planning and navigation in Lego Mindstorms robots."
+        },
+        {
+          "title": "Computer Vision with Lego Mindstorms",
+          "type": "instruction",
+          "path": "instruction/computer-vision-with-lego-mindstorms/computer-vision-with-lego-mindstorms.md",
+          "id": "49f4230535654742b4d0da073a62a150",
+          "state": "stub",
+          "description": "Introduction to computer vision techniques using Lego Mindstorms and external cameras."
+        },
+        {
+          "title": "Lego Spike Prime Overview",
+          "type": "instruction",
+          "path": "instruction/lego-spike-prime-overview/lego-spike-prime-overview.md",
+          "id": "b6cd3b1155cf4f13a0a6d9e1196007e6",
+          "state": "stub",
+          "description": "An overview of the Lego Spike Prime system."
+        },
+        {
+          "title": "Python Programming with Spike Prime",
+          "type": "instruction",
+          "path": "instruction/python-programming-with-spike-prime/python-programming-with-spike-prime.md",
+          "id": "35399dd8a2eb4f06842f438b57adb7f0",
+          "state": "stub",
+          "description": "Introduction to Python programming with Lego Spike Prime."
+        }
       ]
     },
     {
       "title": "Lego Architecture: Design and Structural Engineering",
-      "description": "Examine the Lego Architecture series, focusing on architectural design principles and structural engineering concepts.",
       "topics": [
-        { "title": "The Lego Architecture Series: An Overview", "description": "Introduction to the Lego Architecture series and its focus on iconic buildings and landmarks.", "path": "instruction/the-lego-architecture-series-an-overview/the-lego-architecture-series-an-overview.md", "type": "instruction", "state": "stub" },
-        { "title": "Scale Modeling and Proportionality", "description": "Understanding scale modeling and proportionality in architectural design.", "path": "instruction/scale-modeling-and-proportionality/scale-modeling-and-proportionality.md", "type": "instruction", "state": "stub" },
-        { "title": "Structural Elements: Walls, Columns, Beams", "description": "Identifying and analyzing structural elements in Lego Architecture models.", "path": "instruction/structural-elements-walls-columns-beams/structural-elements-walls-columns-beams.md", "type": "instruction", "state": "stub" },
-        { "title": "Load Distribution and Stability", "description": "Understanding load distribution and stability in architectural structures.", "path": "instruction/load-distribution-and-stability/load-distribution-and-stability.md", "type": "instruction", "state": "stub" },
-        { "title": "Architectural Styles and Movements", "description": "Exploring different architectural styles and movements represented in Lego Architecture models.", "path": "instruction/architectural-styles-and-movements/architectural-styles-and-movements.md", "type": "instruction", "state": "stub" },
-        { "title": "Materiality and Texture in Lego Architecture", "description": "Using Lego bricks to represent different materials and textures in architectural designs.", "path": "instruction/materiality-and-texture-in-lego-architecture/materiality-and-texture-in-lego-architecture.md", "type": "instruction", "state": "stub" },
-        { "title": "Sustainable Design Principles", "description": "Applying sustainable design principles to Lego Architecture models.", "path": "instruction/sustainable-design-principles/sustainable-design-principles.md", "type": "instruction", "state": "stub" },
-        { "title": "Urban Planning and Lego City", "description": "Exploring urban planning concepts through Lego City layouts and designs.", "path": "instruction/urban-planning-and-lego-city/urban-planning-and-lego-city.md", "type": "instruction", "state": "stub" },
-        { "title": "The Role of Light and Shadow", "description": "Understanding how light and shadow affect the perception of architectural models.", "path": "instruction/the-role-of-light-and-shadow/the-role-of-light-and-shadow.md", "type": "instruction", "state": "stub" },
-        { "title": "Building Information Modeling (BIM)", "description": "Introduction to Building Information Modeling (BIM) and its applications in architectural design.", "path": "instruction/building-information-modeling-bim/building-information-modeling-bim.md", "type": "instruction", "state": "stub" },
-        { "title": "Frank Lloyd Wright and Lego", "description": "An examination of the Frank Lloyd Wright Lego architecture series.", "path": "instruction/frank-lloyd-wright-and-lego/frank-lloyd-wright-and-lego.md", "type": "instruction", "state": "stub" },
-        { "title": "The Impact of Lego on Architectural Education", "description": "How Lego is used in architectural education.", "path": "instruction/the-impact-of-lego-on-architectural-education/the-impact-of-lego-on-architectural-education.md", "type": "instruction", "state": "stub" }
+        {
+          "title": "The Lego Architecture Series: An Overview",
+          "type": "instruction",
+          "path": "instruction/the-lego-architecture-series-an-overview/the-lego-architecture-series-an-overview.md",
+          "id": "e28927e12f434fc09d1eaed521386a83",
+          "state": "stub",
+          "description": "Introduction to the Lego Architecture series and its focus on iconic buildings and landmarks."
+        },
+        {
+          "title": "Scale Modeling and Proportionality",
+          "type": "instruction",
+          "path": "instruction/scale-modeling-and-proportionality/scale-modeling-and-proportionality.md",
+          "id": "5d16fb9cb53c45f39be7e0fdd3f65910",
+          "state": "stub",
+          "description": "Understanding scale modeling and proportionality in architectural design."
+        },
+        {
+          "title": "Structural Elements: Walls, Columns, Beams",
+          "type": "instruction",
+          "path": "instruction/structural-elements-walls-columns-beams/structural-elements-walls-columns-beams.md",
+          "id": "2844e023cf214ee797fc0966e8b81110",
+          "state": "stub",
+          "description": "Identifying and analyzing structural elements in Lego Architecture models."
+        },
+        {
+          "title": "Load Distribution and Stability",
+          "type": "instruction",
+          "path": "instruction/load-distribution-and-stability/load-distribution-and-stability.md",
+          "id": "69c30eb06cb44dfe908bf1e99747617a",
+          "state": "stub",
+          "description": "Understanding load distribution and stability in architectural structures."
+        },
+        {
+          "title": "Architectural Styles and Movements",
+          "type": "instruction",
+          "path": "instruction/architectural-styles-and-movements/architectural-styles-and-movements.md",
+          "id": "aaf3a3d8be92497792291981665abe5f",
+          "state": "stub",
+          "description": "Exploring different architectural styles and movements represented in Lego Architecture models."
+        },
+        {
+          "title": "Materiality and Texture in Lego Architecture",
+          "type": "instruction",
+          "path": "instruction/materiality-and-texture-in-lego-architecture/materiality-and-texture-in-lego-architecture.md",
+          "id": "3774a2a0f7c24841ba8b1a3b9bcd544b",
+          "state": "stub",
+          "description": "Using Lego bricks to represent different materials and textures in architectural designs."
+        },
+        {
+          "title": "Sustainable Design Principles",
+          "type": "instruction",
+          "path": "instruction/sustainable-design-principles/sustainable-design-principles.md",
+          "id": "9b0c43cc2a9848d1919a6e393904c9fb",
+          "state": "stub",
+          "description": "Applying sustainable design principles to Lego Architecture models."
+        },
+        {
+          "title": "Urban Planning and Lego City",
+          "type": "instruction",
+          "path": "instruction/urban-planning-and-lego-city/urban-planning-and-lego-city.md",
+          "id": "afa7b40c11a946d9a7c09ff44cad70e2",
+          "state": "stub",
+          "description": "Exploring urban planning concepts through Lego City layouts and designs."
+        },
+        {
+          "title": "The Role of Light and Shadow",
+          "type": "instruction",
+          "path": "instruction/the-role-of-light-and-shadow/the-role-of-light-and-shadow.md",
+          "id": "a9c7bf852f484475abb29ea76d92ff95",
+          "state": "stub",
+          "description": "Understanding how light and shadow affect the perception of architectural models."
+        },
+        {
+          "title": "Building Information Modeling (BIM)",
+          "type": "instruction",
+          "path": "instruction/building-information-modeling-bim/building-information-modeling-bim.md",
+          "id": "6cb77047731b408480c233323ad7313e",
+          "state": "stub",
+          "description": "Introduction to Building Information Modeling (BIM) and its applications in architectural design."
+        },
+        {
+          "title": "Frank Lloyd Wright and Lego",
+          "type": "instruction",
+          "path": "instruction/frank-lloyd-wright-and-lego/frank-lloyd-wright-and-lego.md",
+          "id": "ff454d75fe4045959ac16e31154504e8",
+          "state": "stub",
+          "description": "An examination of the Frank Lloyd Wright Lego architecture series."
+        },
+        {
+          "title": "The Impact of Lego on Architectural Education",
+          "type": "instruction",
+          "path": "instruction/the-impact-of-lego-on-architectural-education/the-impact-of-lego-on-architectural-education.md",
+          "id": "003391071dff47e9b9f9d3e729801620",
+          "state": "stub",
+          "description": "How Lego is used in architectural education."
+        }
       ]
     },
     {
       "title": "Lego Serious Play: Innovation and Problem-Solving",
-      "description": "Explore the Lego Serious Play methodology, focusing on its application in innovation, problem-solving, and strategic thinking.",
       "topics": [
-        { "title": "Introduction to Lego Serious Play", "description": "An overview of the Lego Serious Play methodology and its core principles.", "path": "instruction/introduction-to-lego-serious-play/introduction-to-lego-serious-play.md", "type": "instruction", "state": "stub" },
-        { "title": "Building Metaphors and Narratives", "description": "Using Lego bricks to build metaphors and narratives to represent complex ideas.", "path": "instruction/building-metaphors-and-narratives/building-metaphors-and-narratives.md", "type": "instruction", "state": "stub" },
-        { "title": "Facilitation Techniques and Workshop Design", "description": "Learning effective facilitation techniques for Lego Serious Play workshops.", "path": "instruction/facilitation-techniques-and-workshop-design/facilitation-techniques-and-workshop-design.md", "type": "instruction", "state": "stub" },
-        { "title": "Problem Definition and Exploration", "description": "Using Lego Serious Play to define and explore complex problems.", "path": "instruction/problem-definition-and-exploration/problem-definition-and-exploration.md", "type": "instruction", "state": "stub" },
-        { "title": "Generating Ideas and Solutions", "description": "Using Lego Serious Play to generate creative ideas and solutions.", "path": "instruction/generating-ideas-and-solutions/generating-ideas-and-solutions.md", "type": "instruction", "state": "stub" },
-        { "title": "Strategic Planning and Visioning", "description": "Applying Lego Serious Play to strategic planning and visioning exercises.", "path": "instruction/strategic-planning-and-visioning/strategic-planning-and-visioning.md", "type": "instruction", "state": "stub" },
-        { "title": "Team Building and Communication", "description": "Using Lego Serious Play to improve team building and communication skills.", "path": "instruction/team-building-and-communication/team-building-and-communication.md", "type": "instruction", "state": "stub" },
-        { "title": "Prototyping and Testing", "description": "Using Lego Serious Play to prototype and test new ideas and concepts.", "path": "instruction/prototyping-and-testing/prototyping-and-testing.md", "type": "instruction", "state": "stub" },
-        { "title": "Change Management and Organizational Development", "description": "Applying Lego Serious Play to change management and organizational development initiatives.", "path": "instruction/change-management-and-organizational-development/change-management-and-organizational-development.md", "type": "instruction", "state": "stub" },
-        { "title": "The Science Behind Serious Play", "description": "An understanding of the psychological principles and neuroscience behind the effectiveness of Lego Serious Play.", "path": "instruction/the-science-behind-serious-play/the-science-behind-serious-play.md", "type": "instruction", "state": "stub" },
-        { "title": "Serious Play and Agile Development", "description": "How Lego Serious Play intersects with Agile Software Development methodologies.", "path": "instruction/serious-play-and-agile-development/serious-play-and-agile-development.md", "type": "instruction", "state": "stub" },
-        { "title": "The Future of Serious Play", "description": "Considering the possible future applications of Lego Serious Play.", "path": "instruction/the-future-of-serious-play/the-future-of-serious-play.md", "type": "instruction", "state": "stub" }
+        {
+          "title": "Introduction to Lego Serious Play",
+          "type": "instruction",
+          "path": "instruction/introduction-to-lego-serious-play/introduction-to-lego-serious-play.md",
+          "id": "26023b5967be47f38734e02af812fb93",
+          "state": "stub",
+          "description": "An overview of the Lego Serious Play methodology and its core principles."
+        },
+        {
+          "title": "Building Metaphors and Narratives",
+          "type": "instruction",
+          "path": "instruction/building-metaphors-and-narratives/building-metaphors-and-narratives.md",
+          "id": "a82f94a7515945bfade933ba17b36a3f",
+          "state": "stub",
+          "description": "Using Lego bricks to build metaphors and narratives to represent complex ideas."
+        },
+        {
+          "title": "Facilitation Techniques and Workshop Design",
+          "type": "instruction",
+          "path": "instruction/facilitation-techniques-and-workshop-design/facilitation-techniques-and-workshop-design.md",
+          "id": "4b03f85dc8c34b998c708f7ac713c886",
+          "state": "stub",
+          "description": "Learning effective facilitation techniques for Lego Serious Play workshops."
+        },
+        {
+          "title": "Problem Definition and Exploration",
+          "type": "instruction",
+          "path": "instruction/problem-definition-and-exploration/problem-definition-and-exploration.md",
+          "id": "39a8725adf64442b85d2994d062f8023",
+          "state": "stub",
+          "description": "Using Lego Serious Play to define and explore complex problems."
+        },
+        {
+          "title": "Generating Ideas and Solutions",
+          "type": "instruction",
+          "path": "instruction/generating-ideas-and-solutions/generating-ideas-and-solutions.md",
+          "id": "b85302d3ff4b4b8fb7f056a7bd071baf",
+          "state": "stub",
+          "description": "Using Lego Serious Play to generate creative ideas and solutions."
+        },
+        {
+          "title": "Strategic Planning and Visioning",
+          "type": "instruction",
+          "path": "instruction/strategic-planning-and-visioning/strategic-planning-and-visioning.md",
+          "id": "14f4b452527d4ef6b73dcad8859eef74",
+          "state": "stub",
+          "description": "Applying Lego Serious Play to strategic planning and visioning exercises."
+        },
+        {
+          "title": "Team Building and Communication",
+          "type": "instruction",
+          "path": "instruction/team-building-and-communication/team-building-and-communication.md",
+          "id": "81e350e9e5644763ac4fab4c346429df",
+          "state": "stub",
+          "description": "Using Lego Serious Play to improve team building and communication skills."
+        },
+        {
+          "title": "Prototyping and Testing",
+          "type": "instruction",
+          "path": "instruction/prototyping-and-testing/prototyping-and-testing.md",
+          "id": "fa1f31b44bc247888c339e9c52894d54",
+          "state": "stub",
+          "description": "Using Lego Serious Play to prototype and test new ideas and concepts."
+        },
+        {
+          "title": "Change Management and Organizational Development",
+          "type": "instruction",
+          "path": "instruction/change-management-and-organizational-development/change-management-and-organizational-development.md",
+          "id": "53de30164c064848bfb8259889f7fdbd",
+          "state": "stub",
+          "description": "Applying Lego Serious Play to change management and organizational development initiatives."
+        },
+        {
+          "title": "The Science Behind Serious Play",
+          "type": "instruction",
+          "path": "instruction/the-science-behind-serious-play/the-science-behind-serious-play.md",
+          "id": "9d4b2498a42a4484b2f4a049c14fe7d5",
+          "state": "stub",
+          "description": "An understanding of the psychological principles and neuroscience behind the effectiveness of Lego Serious Play."
+        },
+        {
+          "title": "Serious Play and Agile Development",
+          "type": "instruction",
+          "path": "instruction/serious-play-and-agile-development/serious-play-and-agile-development.md",
+          "id": "e816e670315647919abf122ca087106c",
+          "state": "stub",
+          "description": "How Lego Serious Play intersects with Agile Software Development methodologies."
+        },
+        {
+          "title": "The Future of Serious Play",
+          "type": "instruction",
+          "path": "instruction/the-future-of-serious-play/the-future-of-serious-play.md",
+          "id": "afbcfe5d9dbe4ad7a9c9b81c9315f811",
+          "state": "stub",
+          "description": "Considering the possible future applications of Lego Serious Play."
+        }
       ]
     },
     {
       "title": "Lego and Stop-Motion Animation: Storytelling and Visual Communication",
-      "description": "Explore the use of Lego in stop-motion animation, focusing on storytelling, visual communication, and filmmaking techniques.",
       "topics": [
-        { "title": "Introduction to Lego Stop-Motion Animation", "description": "An overview of Lego stop-motion animation and its creative possibilities.", "path": "instruction/introduction-to-lego-stop-motion-animation/introduction-to-lego-stop-motion-animation.md", "type": "instruction", "state": "stub" },
-        { "title": "Storyboarding and Scriptwriting", "description": "Developing storyboards and scripts for Lego stop-motion animations.", "path": "instruction/storyboarding-and-scriptwriting/storyboarding-and-scriptwriting.md", "type": "instruction", "state": "stub" },
-        { "title": "Set Design and Construction", "description": "Designing and building sets for Lego stop-motion animations.", "path": "instruction/set-design-and-construction/set-design-and-construction.md", "type": "instruction", "state": "stub" },
-        { "title": "Character Design and Animation", "description": "Designing and animating Lego characters for stop-motion animations.", "path": "instruction/character-design-and-animation/character-design-and-animation.md", "type": "instruction", "state": "stub" },
-        { "title": "Lighting and Cinematography", "description": "Understanding lighting and cinematography techniques for stop-motion animation.", "path": "instruction/lighting-and-cinematography/lighting-and-cinematography.md", "type": "instruction", "state": "stub" },
-        { "title": "Animation Software and Techniques", "description": "Using animation software and techniques to create smooth and engaging stop-motion animations.", "path": "instruction/animation-software-and-techniques/animation-software-and-techniques.md", "type": "instruction", "state": "stub" },
-        { "title": "Sound Design and Music Composition", "description": "Creating sound design and music compositions for Lego stop-motion animations.", "path": "instruction/sound-design-and-music-composition/sound-design-and-music-composition.md", "type": "instruction", "state": "stub" },
-        { "title": "Special Effects and Visual Enhancements", "description": "Adding special effects and visual enhancements to Lego stop-motion animations.", "path": "instruction/special-effects-and-visual-enhancements/special-effects-and-visual-enhancements.md", "type": "instruction", "state": "stub" },
-        { "title": "Post-Production and Editing", "description": "Post-production and editing techniques for Lego stop-motion animations.", "path": "instruction/post-production-and-editing/post-production-and-editing.md", "type": "instruction", "state": "stub" },
-        { "title": "The History of Brickfilms", "description": "A history of the brickfilm movement and its significant contributors.", "path": "instruction/the-history-of-brickfilms/the-history-of-brickfilms.md", "type": "instruction", "state": "stub" },
-        { "title": "Lego and Virtual Production", "description": "How Lego can be incorporated into virtual production workflows.", "path": "instruction/lego-and-virtual-production/lego-and-virtual-production.md", "type": "instruction", "state": "stub" },
-        { "title": "Distribution and Online Platforms", "description": "Distributing and showcasing Lego stop-motion animations on online platforms.", "path": "instruction/distribution-and-online-platforms/distribution-and-online-platforms.md", "type": "instruction", "state": "stub" }
+        {
+          "title": "Introduction to Lego Stop-Motion Animation",
+          "type": "instruction",
+          "path": "instruction/introduction-to-lego-stop-motion-animation/introduction-to-lego-stop-motion-animation.md",
+          "id": "e64a7f4f95ff4f54b53e4a418afb66fd",
+          "state": "stub",
+          "description": "An overview of Lego stop-motion animation and its creative possibilities."
+        },
+        {
+          "title": "Storyboarding and Scriptwriting",
+          "type": "instruction",
+          "path": "instruction/storyboarding-and-scriptwriting/storyboarding-and-scriptwriting.md",
+          "id": "211cf0757c554b66bb1d98639940dafb",
+          "state": "stub",
+          "description": "Developing storyboards and scripts for Lego stop-motion animations."
+        },
+        {
+          "title": "Set Design and Construction",
+          "type": "instruction",
+          "path": "instruction/set-design-and-construction/set-design-and-construction.md",
+          "id": "58810535fd174a59b035b7cfe118685d",
+          "state": "stub",
+          "description": "Designing and building sets for Lego stop-motion animations."
+        },
+        {
+          "title": "Character Design and Animation",
+          "type": "instruction",
+          "path": "instruction/character-design-and-animation/character-design-and-animation.md",
+          "id": "03d68ad32b9e4a06869b90e0d198bb6a",
+          "state": "stub",
+          "description": "Designing and animating Lego characters for stop-motion animations."
+        },
+        {
+          "title": "Lighting and Cinematography",
+          "type": "instruction",
+          "path": "instruction/lighting-and-cinematography/lighting-and-cinematography.md",
+          "id": "8efef32137ce4d288cb86f3193edc203",
+          "state": "stub",
+          "description": "Understanding lighting and cinematography techniques for stop-motion animation."
+        },
+        {
+          "title": "Animation Software and Techniques",
+          "type": "instruction",
+          "path": "instruction/animation-software-and-techniques/animation-software-and-techniques.md",
+          "id": "2cad55305ee54e28a4ccda7c271eceb7",
+          "state": "stub",
+          "description": "Using animation software and techniques to create smooth and engaging stop-motion animations."
+        },
+        {
+          "title": "Sound Design and Music Composition",
+          "type": "instruction",
+          "path": "instruction/sound-design-and-music-composition/sound-design-and-music-composition.md",
+          "id": "712670d9947546728bff06076fbcc550",
+          "state": "stub",
+          "description": "Creating sound design and music compositions for Lego stop-motion animations."
+        },
+        {
+          "title": "Special Effects and Visual Enhancements",
+          "type": "instruction",
+          "path": "instruction/special-effects-and-visual-enhancements/special-effects-and-visual-enhancements.md",
+          "id": "35fde1e073a8483c882c040323c22e6c",
+          "state": "stub",
+          "description": "Adding special effects and visual enhancements to Lego stop-motion animations."
+        },
+        {
+          "title": "Post-Production and Editing",
+          "type": "instruction",
+          "path": "instruction/post-production-and-editing/post-production-and-editing.md",
+          "id": "209f802516bc4f6a873a769932418cd6",
+          "state": "stub",
+          "description": "Post-production and editing techniques for Lego stop-motion animations."
+        },
+        {
+          "title": "The History of Brickfilms",
+          "type": "instruction",
+          "path": "instruction/the-history-of-brickfilms/the-history-of-brickfilms.md",
+          "id": "8f10d6a85f58457ab5b79e052c3f3cbe",
+          "state": "stub",
+          "description": "A history of the brickfilm movement and its significant contributors."
+        },
+        {
+          "title": "Lego and Virtual Production",
+          "type": "instruction",
+          "path": "instruction/lego-and-virtual-production/lego-and-virtual-production.md",
+          "id": "4392600a72c54082bd76787847b25d12",
+          "state": "stub",
+          "description": "How Lego can be incorporated into virtual production workflows."
+        },
+        {
+          "title": "Distribution and Online Platforms",
+          "type": "instruction",
+          "path": "instruction/distribution-and-online-platforms/distribution-and-online-platforms.md",
+          "id": "b8093d0502554660b1f7f06c77c9e985",
+          "state": "stub",
+          "description": "Distributing and showcasing Lego stop-motion animations on online platforms."
+        }
       ]
     },
     {
       "title": "Capstone Project: Designing a Sustainable Lego City",
-      "description": "Integrate the knowledge and skills acquired throughout the course to design and build a sustainable Lego City, incorporating engineering principles, architectural design, and innovative solutions.",
       "topics": [
-        { "title": "Project Overview and Requirements", "description": "An overview of the capstone project and its specific requirements.", "path": "instruction/project-overview-and-requirements/project-overview-and-requirements.md", "type": "instruction", "state": "stub" },
-        { "title": "Research and Planning", "description": "Conducting research and planning for the sustainable Lego City project.", "path": "instruction/research-and-planning/research-and-planning.md", "type": "instruction", "state": "stub" },
-        { "title": "Conceptual Design and Layout", "description": "Developing a conceptual design and layout for the sustainable Lego City.", "path": "instruction/conceptual-design-and-layout/conceptual-design-and-layout.md", "type": "instruction", "state": "stub" },
-        { "title": "Infrastructure Design: Energy, Water, Waste", "description": "Designing sustainable infrastructure systems for energy, water, and waste management.", "path": "instruction/infrastructure-design-energy-water-waste/infrastructure-design-energy-water-waste.md", "type": "instruction", "state": "stub" },
-        { "title": "Transportation and Mobility Solutions", "description": "Developing sustainable transportation and mobility solutions for the Lego City.", "path": "instruction/transportation-and-mobility-solutions/transportation-and-mobility-solutions.md", "type": "instruction", "state": "stub" },
-        { "title": "Building Design and Construction", "description": "Designing and constructing sustainable buildings for the Lego City.", "path": "instruction/building-design-and-construction/building-design-and-construction.md", "type": "instruction", "state": "stub" },
-        { "title": "Green Spaces and Urban Agriculture", "description": "Integrating green spaces and urban agriculture into the Lego City design.", "path": "instruction/green-spaces-and-urban-agriculture/green-spaces-and-urban-agriculture.md", "type": "instruction", "state": "stub" },
-        { "title": "Community Engagement and Social Equity", "description": "Incorporating community engagement and social equity principles into the Lego City design.", "path": "instruction/community-engagement-and-social-equity/community-engagement-and-social-equity.md", "type": "instruction", "state": "stub" },
-        { "title": "Presentation and Documentation", "description": "Preparing a presentation and documentation for the sustainable Lego City project.", "path": "instruction/presentation-and-documentation/presentation-and-documentation.md", "type": "instruction", "state": "stub" },
-        { "title": "Peer Review and Feedback", "description": "Participating in peer review and providing feedback on other students' Lego City designs.", "path": "instruction/peer-review-and-feedback/peer-review-and-feedback.md", "type": "instruction", "state": "stub" },
-        { "title": "Final Project Submission", "description": "Submitting the final sustainable Lego City project.", "path": "instruction/final-project-submission/final-project-submission.md", "type": "instruction", "state": "stub" },
-        { "title": "Project Showcase and Celebration", "description": "Showcasing and celebrating the completion of the sustainable Lego City projects.", "path": "instruction/project-showcase-and-celebration/project-showcase-and-celebration.md", "type": "instruction", "state": "stub" }
+        {
+          "title": "Project Overview and Requirements",
+          "type": "instruction",
+          "path": "instruction/project-overview-and-requirements/project-overview-and-requirements.md",
+          "id": "1b8ddb77c86945b288c03c245fd18dd7",
+          "state": "stub",
+          "description": "An overview of the capstone project and its specific requirements."
+        },
+        {
+          "title": "Research and Planning",
+          "type": "instruction",
+          "path": "instruction/research-and-planning/research-and-planning.md",
+          "id": "a1ab599441844297a114bd2d6b1f26c0",
+          "state": "stub",
+          "description": "Conducting research and planning for the sustainable Lego City project."
+        },
+        {
+          "title": "Conceptual Design and Layout",
+          "type": "instruction",
+          "path": "instruction/conceptual-design-and-layout/conceptual-design-and-layout.md",
+          "id": "4a6912a91f1543d68fde5cc7a12011ae",
+          "state": "stub",
+          "description": "Developing a conceptual design and layout for the sustainable Lego City."
+        },
+        {
+          "title": "Infrastructure Design: Energy, Water, Waste",
+          "type": "instruction",
+          "path": "instruction/infrastructure-design-energy-water-waste/infrastructure-design-energy-water-waste.md",
+          "id": "8417e70c4f114b498ede627ae42a94e9",
+          "state": "stub",
+          "description": "Designing sustainable infrastructure systems for energy, water, and waste management."
+        },
+        {
+          "title": "Transportation and Mobility Solutions",
+          "type": "instruction",
+          "path": "instruction/transportation-and-mobility-solutions/transportation-and-mobility-solutions.md",
+          "id": "ea954e5838984bafbff4aa7d7dc07a11",
+          "state": "stub",
+          "description": "Developing sustainable transportation and mobility solutions for the Lego City."
+        },
+        {
+          "title": "Building Design and Construction",
+          "type": "instruction",
+          "path": "instruction/building-design-and-construction/building-design-and-construction.md",
+          "id": "8fee15831da94afc80d5adf6cf1e7a19",
+          "state": "stub",
+          "description": "Designing and constructing sustainable buildings for the Lego City."
+        },
+        {
+          "title": "Green Spaces and Urban Agriculture",
+          "type": "instruction",
+          "path": "instruction/green-spaces-and-urban-agriculture/green-spaces-and-urban-agriculture.md",
+          "id": "6ae418cef4fc4153b6bb84afc5abb64c",
+          "state": "stub",
+          "description": "Integrating green spaces and urban agriculture into the Lego City design."
+        },
+        {
+          "title": "Community Engagement and Social Equity",
+          "type": "instruction",
+          "path": "instruction/community-engagement-and-social-equity/community-engagement-and-social-equity.md",
+          "id": "a93f7712be644b3e808410078e83145d",
+          "state": "stub",
+          "description": "Incorporating community engagement and social equity principles into the Lego City design."
+        },
+        {
+          "title": "Presentation and Documentation",
+          "type": "instruction",
+          "path": "instruction/presentation-and-documentation/presentation-and-documentation.md",
+          "id": "abfff51450a64c40ae10e81aa0864606",
+          "state": "stub",
+          "description": "Preparing a presentation and documentation for the sustainable Lego City project."
+        },
+        {
+          "title": "Peer Review and Feedback",
+          "type": "instruction",
+          "path": "instruction/peer-review-and-feedback/peer-review-and-feedback.md",
+          "id": "e306794f87574fb1b68f2d5e90945786",
+          "state": "stub",
+          "description": "Participating in peer review and providing feedback on other students' Lego City designs."
+        },
+        {
+          "title": "Final Project Submission",
+          "type": "instruction",
+          "path": "instruction/final-project-submission/final-project-submission.md",
+          "id": "23da2d30f47b4ad7b69909179ccd2c6f",
+          "state": "stub",
+          "description": "Submitting the final sustainable Lego City project."
+        },
+        {
+          "title": "Project Showcase and Celebration",
+          "type": "instruction",
+          "path": "instruction/project-showcase-and-celebration/project-showcase-and-celebration.md",
+          "id": "67a15aa9e3b54e7493a309223bb05c86",
+          "state": "stub",
+          "description": "Showcasing and celebrating the completion of the sustainable Lego City projects."
+        }
       ]
     }
   ]
