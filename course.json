@@ -119,7 +119,7 @@
           "type": "instruction",
           "path": "instruction/tolerance-and-precision-in-manufacturing/tolerance-and-precision-in-manufacturing.md",
           "id": "142e67013d894fc58f3a2f7773a01e1f",
-          "state": "stub",
+          "state": "stable",
           "description": "The incredibly tight tolerances required for Lego brick interconnectivity and manufacturing processes."
         },
         {
