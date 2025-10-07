@@ -19,7 +19,8 @@
           "path": "instruction/ole-kirk-christiansen-the-early-years/ole-kirk-christiansen-the-early-years.md",
           "id": "fb06054a2ded45c2bda8918d8d368162",
           "state": "stable",
-          "description": "The life and times of the Lego founder and the initial wooden toy designs."
+          "description": "The life and times of the Lego founder and the initial wooden toy designs.",
+          "commit": "05d690ed6fdf31e58bbbcdfb4f9a909405cbb824"
         },
         {
           "title": "The Invention of Automatic Binding Bricks",
