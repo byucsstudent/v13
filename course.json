@@ -113,7 +113,8 @@
           "path": "instruction/the-2x4-brick-the-cornerstone/the-2x4-brick-the-cornerstone.md",
           "id": "4a046e0d461d4fb38bf4608acbd56dc4",
           "state": "stable",
-          "description": "Why the 2x4 brick became the standard and its significance in the Lego system."
+          "description": "Why the 2x4 brick became the standard and its significance in the Lego system.",
+          "commit": "aa483180d9f641f32ac33258f1f7ec0859a9ac43"
         },
         {
           "title": "Tolerance and Precision in Manufacturing",
